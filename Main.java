@@ -58,7 +58,7 @@ public class Main {
             System.out.println("\n--- GESTIÓN DE AULAS ---");
             System.out.println("1. Registrar Aula");
             System.out.println("2. Listar Aulas");
-            System.out.println("3. Modificar Aula (Por implementar completamente)");
+            System.out.println("3. Modificar Aula");
             System.out.println("0. Volver al Menú Principal");
 
             try {
@@ -136,8 +136,8 @@ public class Main {
             System.out.println("\n--- REPORTES ---");
             System.out.println("1. Top 3 Aulas con más Horas Reservadas");
             System.out.println("2. Ocupación por Tipo de Aula");
-            System.out.println("3. Distribución por Tipo de Reserva (Por implementar)");
-            System.out.println("4. Exportar Reporte (Por implementar)");
+            System.out.println("3. Distribución por Tipo de Reserva");
+            System.out.println("4. Exportar Reporte ");
             System.out.println("0. Volver al Menú Principal");
 
             try {
